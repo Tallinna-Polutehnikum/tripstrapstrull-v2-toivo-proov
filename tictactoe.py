@@ -29,7 +29,7 @@ for kord in range(9):
       player = "O"
   else:
       player = "X"
-  if kord == 9:
+  if kord == 8:
     print ("viik!")
         
 
