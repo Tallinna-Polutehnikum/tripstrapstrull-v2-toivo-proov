@@ -1,3 +1,10 @@
+"""
+Kirjeldus:
+lihtsam versioon 
+    saab mängida kahekesi 
+		mäng tuvastab olukorra kui üks mängija on võitnud või on saabunud viik
+"""
+
 global_board = {
   'k9':9,
   'k8':8,
